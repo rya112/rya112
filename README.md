@@ -1,44 +1,38 @@
-### Hi there 👋
+## Oi, eu sou o Ricardo 👋
 
+Engenheiro de software na **Agile TV**, em Indaiatuba (SP). Construo ferramentas pequenas que resolvem problemas do dia a dia, da minha família e de quem trabalha comigo. Quase tudo roda em casa, num homelab, ou na borda, com Cloudflare, e muita coisa tem IA no meio.
 
-<!--
-**rya112/rya112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conheça mais em **[ricardoakatsuka.com.br](https://ricardoakatsuka.com.br)**.
 
-Here are some ideas to get you started:
+### Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-##
+| Projeto | O que é |
+| --- | --- |
+| [**Jatobá Finance**](https://github.com/rya112/jatoba-finance) | Finanças pessoais no seu próprio computador ou servidor. Importa os extratos do banco, organiza os gastos e acompanha metas, sem senha de banco e sem nuvem de terceiros. |
+| [**Letria**](https://letria.ricardoakatsuka.com.br) | Leitura e escuta em sete idiomas, com textos curtos que se ajustam ao seu nível. Sem cadastro. |
+| [**Partiu**](https://ricardoakatsuka.com.br/projetos/partiu/) | Monitor de passagens em dinheiro e em milhas, que avisa pelo Telegram quando vale a pena comprar. |
+| [**Quitute**](https://ricardoakatsuka.com.br/projetos/quitute/) | Caderno de receitas no Telegram: mande a foto de uma receita e a IA transcreve, organiza e guarda. |
+| [**Homelab**](https://ricardoakatsuka.com.br/projetos/homelab/) | Um mini PC em casa que começou como alternativa ao Google Fotos e virou fliperama e casa dos meus agentes. |
 
-<!-- template https://github.com/anuraghazra/github-readme-stats -->
+Experimentos menores: [quiz-places](https://github.com/rya112/quiz-places) (quiz de lugares famosos em React com TDD), [playwright-samples](https://github.com/rya112/playwright-samples), [java-mandarim](https://github.com/rya112/java-mandarim) (frases por nível HSK) e [java-fireworks](https://github.com/rya112/java-fireworks) (fogos de artifício em Java 2D).
 
-<div align="center">
-  <a href="https://github.com/rya112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rya112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rya112&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MSSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-  
-##
+### Trajetória
 
-<div> 
-  <a href = "mailto:rya112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-akatsuka-45862813/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Antes da programação veio um curso técnico em agropecuária. Entrei em Ciência da Computação em 2006 e cheguei ao mercado por um treinamento em .NET da Microsoft com o Senac.
+
+- **LabOne, hoje Agile TV**: engenheiro de software, onde estou até hoje.
+- **Grupo EC**: analista e programador júnior.
+- **Consitec TI**: programador júnior.
+- **Senior Solution**: estagiário e depois programador júnior, em soluções financeiras.
+
+Em qualquer software, valorizo cinco coisas: simplicidade, segurança, boa arquitetura, testes e documentação. Os temas que mais me empolgam hoje são IA e homelab. Fora do código, estou aprendendo mandarim.
+
+### Com o que trabalho
+
+- **Hoje:** TypeScript, Node.js, Hono, Fastify, PostgreSQL, Docker, Cloudflare Workers, Astro, Playwright e a API do Claude.
+- **Também:** Java, C#, SQL Server e Python.
+- **Infra:** Proxmox, Tailscale e Cloudflare Tunnel.
+
+### Contato
+
+[Site](https://ricardoakatsuka.com.br) · [LinkedIn](https://www.linkedin.com/in/tchoko112) · [Instagram](https://www.instagram.com/tchoko112) · [contato@ricardoakatsuka.com.br](mailto:contato@ricardoakatsuka.com.br)
